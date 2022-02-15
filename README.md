@@ -1,7 +1,11 @@
 # WebSecurity-ITA-2009
 A training course I wrote on Web Security, Exploit Development and Source Code Auditing In January 2009.
 
-The content is outdated and the course was written in Italian, I'm publishing it as "Safe Keeping" for Memorabilia/Nostalgia days.
+Keep in mind that this course has never been updated and has remained untouched ever since it was completed 13 years ago, it is also written in Italian.
+
+Whilst not all the material is still relevant today (RFI, LFI log poisoning), most of the other vulnerability classes presented still are. 
+
+Publishing it as "Safe Keeping" for Memorabilia/Nostalgia days.
 
 
 # Index
